@@ -1,0 +1,6 @@
+streamlit
+Streamlit, version 0.67.1
+
+python
+Python 3.8.3
+
