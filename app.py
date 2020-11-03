@@ -40,7 +40,7 @@ def main():
 
         """Auro's ML shop"""
         st.title("Welcome to Auro's Machine learning shop")
-        st.text("Upload and analyze any classification problem - Tabular data only")
+        
 
         st.write("This is a classification machine learning web-app; We are testing numerous tabular classification data to make it better and better :sunglasses:.")
         st.write("For testing purpose and bug fixing, this web app only supports tabular data in Excel Workbook (.xlsx) format. Later we will add other file extensions to upload. :bell:")
